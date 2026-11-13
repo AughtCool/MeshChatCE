@@ -1,0 +1,18 @@
+# build output
+src/MeshChatCE.exe
+src/build_log.txt
+*.exe
+*.pdb
+
+# personal data - never commit these
+meshchat_history.txt
+meshchat_settings.txt
+meshchat_range.csv
+MeshChatCE.ini
+MeshChat.ini
+
+# editor / OS clutter
+*.bak
+*.tmp
+Thumbs.db
+.DS_Store
